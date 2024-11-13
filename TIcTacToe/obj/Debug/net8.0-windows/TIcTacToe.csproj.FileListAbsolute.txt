@@ -1,0 +1,16 @@
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\obj\Debug\net8.0-windows\TIcTacToe.TicTacToeForm.resources
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\obj\Debug\net8.0-windows\TIcTacToe.csproj.GenerateResource.cache
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\obj\Debug\net8.0-windows\TIcTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\obj\Debug\net8.0-windows\TIcTacToe.AssemblyInfoInputs.cache
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\obj\Debug\net8.0-windows\TIcTacToe.AssemblyInfo.cs
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\obj\Debug\net8.0-windows\TIcTacToe.csproj.CoreCompileInputs.cache
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\bin\Debug\net8.0-windows\TIcTacToe.exe
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\bin\Debug\net8.0-windows\TIcTacToe.deps.json
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\bin\Debug\net8.0-windows\TIcTacToe.runtimeconfig.json
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\bin\Debug\net8.0-windows\TIcTacToe.dll
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\bin\Debug\net8.0-windows\TIcTacToe.pdb
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\obj\Debug\net8.0-windows\TIcTacToe.dll
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\obj\Debug\net8.0-windows\refint\TIcTacToe.dll
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\obj\Debug\net8.0-windows\TIcTacToe.pdb
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\obj\Debug\net8.0-windows\TIcTacToe.genruntimeconfig.cache
+C:\Users\magda\Desktop\c#\TIcTacToe\TIcTacToe\obj\Debug\net8.0-windows\ref\TIcTacToe.dll
